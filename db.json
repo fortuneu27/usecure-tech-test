@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@test.com",
+      "id": "bc3e02fa-8a5e-4c1c-b78a-9dad0505876f"
+    }
+  ],
+  "courseResults": [
+    {
+      "name": "Test Course",
+      "score": 100,
+      "learnerId": "bc3e02fa-8a5e-4c1c-b78a-9dad0505876f"
+    },
+    {
+      "name": "Test Course 2",
+      "score": 50,
+      "learnerId": "bc3e02fa-8a5e-4c1c-b78a-9dad0505876f"
+    }
+  ]
+}
