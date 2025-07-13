@@ -147,5 +147,3 @@ export const UserList = () => {
     </>
   );
 };
-
-// Handle the creating and updating course results in a popup/modal
