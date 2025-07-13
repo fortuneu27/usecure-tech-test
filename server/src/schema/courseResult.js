@@ -12,6 +12,7 @@ export default gql`
     }
 
     type CourseResult {
+        id: ID
         name: String!
         score: Int!
         learnerId: ID!

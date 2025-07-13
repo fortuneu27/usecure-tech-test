@@ -1,10 +1,10 @@
-import { UserView } from './UserView'
+import Router from './components/Router'
 
 function App() {
 
   return (
     <>
-      <UserView />
+      <Router />
     </>
   )
 }

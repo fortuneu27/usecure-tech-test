@@ -5,6 +5,30 @@
       "lastName": "User",
       "email": "test@test.com",
       "id": "bc3e02fa-8a5e-4c1c-b78a-9dad0505876f"
+    },
+    {
+      "id": "d9ec2117-dca2-4415-a9ab-76341bb5d137",
+      "firstName": "Test 2",
+      "lastName": "User",
+      "email": "test2@test.com"
+    },
+    {
+      "id": "4be05ebf-829d-4d9b-8044-b22223d917a6",
+      "firstName": "Test 3",
+      "lastName": "User",
+      "email": "test3@test.com"
+    },
+    {
+      "id": "34d07524-055d-41e3-8c8c-986086838613",
+      "firstName": "Test 4",
+      "lastName": "User",
+      "email": "test4@test.com"
+    },
+    {
+      "id": "298be56b-f9c6-4a79-b4f8-00e07f2ac7c2",
+      "firstName": "Test 6",
+      "lastName": "User",
+      "email": "test6@test.com"
     }
   ],
   "courseResults": [
@@ -17,6 +41,12 @@
       "name": "Test Course 2",
       "score": 50,
       "learnerId": "bc3e02fa-8a5e-4c1c-b78a-9dad0505876f"
+    },
+    {
+      "id": "11fb14a5-4871-413f-b2a4-4a669348b114",
+      "name": "Coding",
+      "score": 51,
+      "learnerId": "7e74cabb-d5c4-4c65-a3f2-40faac6fc413"
     }
   ]
 }
